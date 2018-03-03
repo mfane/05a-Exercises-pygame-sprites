@@ -1,14 +1,6 @@
 # 05a-Exercises-pygame-sprites
 
-Here are some exercises to help you learn about how sprites are implemented in Pygame.
-
-This assumes that you have Pygame installed.
-
-There are four exercise files in this repository. Follow the instructions in each of them to fulfill the exercise. Then commit your changes to your repository and push them back to GitHub.
-
-Some of the exercises require you to interpret what is going on. Feel free to explore other variations until you can come up with a reasonable explanation. 
-
-As with your assignments, please edit the LICENSE file (replace the [year] [fullname] with the current year and your name), and edit this file to describe what your code does.
+these are some exercises exploring what the sprite class of pygame does
 
 The following may be helpful to get you started:
 
